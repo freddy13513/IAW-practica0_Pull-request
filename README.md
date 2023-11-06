@@ -21,6 +21,7 @@ ahora lo intentamos por ssh y no funciona
 
 ## Ver repositorios 
 Git remote -v Este comando muestra una lista de los repositorios remotos configurados para el repositorio local, junto con las URL para recuperar (fetch) y enviar (push) datos. En este caso, se muestra que hay un repositorio remoto llamado "origin" con las URL (https) correspondientes.
+
 ![imagen](https://github.com/freddy13513/IAW-practica0_Pull-request_documentacion/assets/146179724/c81ca187-84ad-4a5e-8b73-4174da253c03)
 
 ## Borrar repositorios 
