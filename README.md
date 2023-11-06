@@ -1,12 +1,12 @@
 # IAW-practica0_Pull-request
 
-##creamos un repositorrio sin añardir el README
+## creamos un repositorrio sin añardir el README
 ![imagen](https://github.com/freddy13513/IAW-practica0_Pull-request_documentacion/assets/146179724/b14633e3-a101-4565-b009-dc6c8da15af6)
 
-##creamos el directorio
+## creamos el directorio
 ![imagen](https://github.com/freddy13513/IAW-practica0_Pull-request_documentacion/assets/146179724/829fccc5-f9ec-4937-b2da-e7a571394db5)
 
-##Creamos el repositorio
+## Creamos el repositorio
 Iniciamos git 
 con git add añadimos el readme
 hacemos un commit de los cambios 
